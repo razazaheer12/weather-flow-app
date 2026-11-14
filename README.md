@@ -17,9 +17,8 @@ Search any city, follow the hour-by-hour story of the day, keep your favorite pl
 🔗 **Live demo:** [weather-flow-web-app.vercel.app/](https://weather-flow-web-app.vercel.app/) · 📦 **Source:** [github.com/razazaheer12/weather-flow-app](https://github.com/razazaheer12/weather-flow-app)
 
 <img width="958" height="411" alt="image" src="https://github.com/user-attachments/assets/bb78b5cb-25da-4ea3-af4e-86137179a62c" />
-<img width="571" height="440" alt="image" src="https://github.com/user-attachments/assets/4c18ab79-7c0b-4659-8a3d-6727e9081593" />
-<img width="294" height="440" alt="image" src="https://github.com/user-attachments/assets/d904eae1-992d-41c4-92f9-ba532322256a" />
-
+<img width="1921" height="1378" alt="image" src="https://github.com/user-attachments/assets/097a025c-e369-4b3a-ab72-9b99a5549182" />
+<img width="1921" height="2862" alt="image" src="https://github.com/user-attachments/assets/0746670f-2cd1-4cf5-819b-1579fc548ae5" />
 
 </div>
 
